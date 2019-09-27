@@ -6,4 +6,4 @@ This repository is dedicated to finding elegant solutions for simple problems. E
 
 | Problem	| Languages  	|
 |---	|---	|
-| [Return only palindromes](problems/palindrome/README.md) |   Swift	   |
+| [Return only palindromes](problems/palindromes/README.md) |   Swift	   |
