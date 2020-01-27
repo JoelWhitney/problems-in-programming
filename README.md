@@ -6,6 +6,6 @@ This repository is dedicated to finding elegant solutions for simple problems. E
 
 | Problem	| Languages  	|
 |---	|---	|
-| [Return only palindromes](problems/palindromes/README.md) |   Swift	   |
+| [Return only palindromes](problems/palindromes/README.md) |   Swift, Python	   |
 | [Find missing number](problems/missing_number/README.md) |   Swift	   |
-| [Degrees between clock hands](problems/clock_hands/README.md) |   Swift	   |
+| [Degrees between clock hands](problems/clock_hands/README.md) |   Swift, Python	   |

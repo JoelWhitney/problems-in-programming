@@ -11,3 +11,4 @@ Write a function that takes in an array of words / short phrases and returns pal
 
 ### Solutions
 [palindrome.swift](palindrome.swift)
+[palindrome.py](palindrome.py)
