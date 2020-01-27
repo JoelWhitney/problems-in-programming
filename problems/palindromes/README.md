@@ -10,5 +10,5 @@ Write a function that takes in an array of words / short phrases and returns pal
 - Does capitalization matter? No
 
 ### Solutions
-[palindrome.swift](palindrome.swift)
-[palindrome.py](palindrome.py)
+- [palindrome.swift](palindrome.swift)
+- [palindrome.py](palindrome.py)

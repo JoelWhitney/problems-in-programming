@@ -10,5 +10,5 @@ Example: What is the degrees between the hour and minute hand at 3:15?
 - ...
 
 ### Solutions
-[clock_hands.swift](clock_hands.swift)
-[clock_hands.py](clock_hands.py)
+- [clock_hands.swift](clock_hands.swift)
+- [clock_hands.py](clock_hands.py)
