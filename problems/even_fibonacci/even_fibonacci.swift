@@ -4,8 +4,8 @@ let maxTermValue = 4000000
 
 func sumOfEvens(_ maxTermValue: Int) -> Int {
     var sum = 0
-    findEvenFibonacciTerms(maxTermValue).forEach { multiple in
-        sum += multiple
+    findEvenFibonacciTerms(maxTermValue).forEach { term in
+        sum += term
     }
     return sum
 }
