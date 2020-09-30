@@ -1,5 +1,7 @@
-### Problem statement
+### Level
+Easy
 
+### Problem statement
 Write a function that takes in an array of words / short phrases and returns palindromes
 
 **Input:** Array strings

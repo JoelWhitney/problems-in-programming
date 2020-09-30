@@ -1,3 +1,6 @@
+### Level
+Easy
+
 ### Problem statement
 
 Given an analog clock, write a function that returns the degrees between the hours and minutes hands at any given time
